@@ -1,0 +1,10 @@
+{
+    "presets": [
+        ["env", {
+            "targets": [
+                "last 5 versions",
+                "ie >= 8"
+            ]
+        }]
+    ]
+}  
